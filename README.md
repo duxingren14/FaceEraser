@@ -1,5 +1,5 @@
 # FaceEraser
-Pytorch implementation of FaceEraser: Facial Part Removal for Augmented Reality
+Pytorch implementation of FaceEraser: Removing Facial Parts for Augmented Reality
 
 [Arxiv](https://arxiv.org/abs/2109.10760)
 
