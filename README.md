@@ -3,6 +3,9 @@ Pytorch implementation of FaceEraser: Removing Facial Parts for Augmented Realit
 
 [Arxiv](https://arxiv.org/abs/2109.10760)
 
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=PU-GckE2kJk/0.jpg)](https://www.youtube.com/watch?v=PU-GckE2kJk)
+
+
 If your research benefits from this repo, please cite our paper at:
 
 ```
